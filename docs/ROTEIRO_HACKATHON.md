@@ -12,7 +12,7 @@ Clique em Simular desperdício.
 
 Adicionamos uma parcela de consumo de processos desnecessários em segundo plano. A potência sobe para cerca de 162 W, embora a carga útil continue igual. O sistema compara esse valor com a faixa esperada para a tarefa e apresenta um alerta.
 
-Aponte para o alerta e para a potência. Não abra os detalhes técnicos.
+Aponte para o alerta, para a potência e para a explicação Tarefa simples, consumo excessivo, que aparece nesta etapa. Destaque que a tarefa continua igual, mas há consumo extra sem aumento da carga útil. Não abra os detalhes técnicos.
 
 ## 55 a 90 segundos. Intervenção
 

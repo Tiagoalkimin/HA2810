@@ -58,6 +58,12 @@ def render_demo():
 
     if stage == "waste":
         st.error("Consumo acima do esperado. Verifique os processos em segundo plano.")
+        st.markdown(
+            "**Tarefa simples, consumo excessivo.** O computador continua apenas com "
+            f"navegador e documentos, mas está consumindo {br(snap['power']['waste_w'], 0)} W extras "
+            "sem aumentar a carga útil. Neste cenário simulado, esse excesso representa "
+            "processos desnecessários em segundo plano."
+        )
     elif stage == "optimized":
         st.success("Otimização simulada aplicada. Consumo extra removido; mesma carga útil de CPU e GPU.")
     else:
