@@ -64,6 +64,16 @@ def render_demo():
             "sem aumentar a carga útil. Neste cenário simulado, esse excesso representa "
             "processos desnecessários em segundo plano."
         )
+        st.markdown(
+            "**Possíveis causas:** aplicativos atualizando em segundo plano; "
+            "sincronização ou backup de arquivos na nuvem; abas reproduzindo vídeos "
+            "sem serem assistidos; jogos e outros aplicativos abertos sem uso."
+        )
+        st.caption(
+            "Atualizações e backups podem ser necessários. O desperdício depende de "
+            "atividade desnecessária ou repetida. Os 90 W são ilustrativos e não "
+            "representam o consumo medido desses aplicativos."
+        )
     elif stage == "optimized":
         st.success("Otimização simulada aplicada. Consumo extra removido; mesma carga útil de CPU e GPU.")
     else:

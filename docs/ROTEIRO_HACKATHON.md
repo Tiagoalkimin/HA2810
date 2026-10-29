@@ -12,7 +12,7 @@ Clique em Simular desperdício.
 
 Adicionamos uma parcela de consumo de processos desnecessários em segundo plano. A potência sobe para cerca de 162 W, embora a carga útil continue igual. O sistema compara esse valor com a faixa esperada para a tarefa e apresenta um alerta.
 
-Aponte para o alerta, para a potência e para a explicação Tarefa simples, consumo excessivo, que aparece nesta etapa. Destaque que a tarefa continua igual, mas há consumo extra sem aumento da carga útil. Não abra os detalhes técnicos.
+Cite um dos exemplos exibidos: aplicativos atualizando em segundo plano, sincronização ou backup na nuvem, vídeos em abas sem uso ou jogos deixados abertos. Explique que atualizações e backups podem ser necessários, e que os 90 W são apenas a parcela ilustrativa do cenário. Aponte para o alerta, para a potência e para a explicação Tarefa simples, consumo excessivo, que aparece nesta etapa. Destaque que a tarefa continua igual, mas há consumo extra sem aumento da carga útil. Não abra os detalhes técnicos.
 
 ## 55 a 90 segundos. Intervenção
 
